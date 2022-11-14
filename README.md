@@ -15,7 +15,7 @@ La capa de bbdd será manejada desde memoria y he incluido unos registros base q
 
 ### Test: 
 Para poder probar el API he añadido un fichero con una colección de llamadas a las operaciones: 
-(/java_challenge/src/main/resources/postman/java_challenge.postman_collection.json)
+(/src/main/resources/postman/java_challenge.postman_collection.json)
 * listCustomers: Consultar la lista de clientes
     * Entrada: vacio
     * Salida: lista de clientes
