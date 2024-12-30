@@ -1,6 +1,6 @@
 # Java Challenge
 
-##Autor: Carlos Nieto
+## Autor: Carlos Nieto
 
 ### Analisis y Diseño
 Me he centrado principalmente en  generar los métodos expuestos de la API
